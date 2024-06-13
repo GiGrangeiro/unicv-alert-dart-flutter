@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "363475344331",
+    "project_id": "unicv-alert",
+    "storage_bucket": "unicv-alert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363475344331:android:ff038d5c547b29a2d4344e",
+        "android_client_info": {
+          "package_name": "com.example.chimbinha"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu83SfDItttk2weJcbGf7e-xmiGWq_9qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363475344331:android:cbea3bd13b9846a1d4344e",
+        "android_client_info": {
+          "package_name": "com.example.unicv_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu83SfDItttk2weJcbGf7e-xmiGWq_9qU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
